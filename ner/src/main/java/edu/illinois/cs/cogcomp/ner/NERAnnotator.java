@@ -45,9 +45,9 @@ public class NERAnnotator extends Annotator {
     /** our specific logger. */
     private final Logger logger = LoggerFactory.getLogger(NERAnnotator.class);
     /** the level one tagger. */
-    private NETaggerLevel1 t1;
+    public NETaggerLevel1 t1;
     /** the level two tagger. */
-    private NETaggerLevel2 t2;
+    public NETaggerLevel2 t2;
 
 
     /**

@@ -27,7 +27,6 @@ import edu.illinois.cs.cogcomp.core.utilities.configuration.ResourceManager;
 import edu.illinois.cs.cogcomp.nlp.tokenizer.IllinoisTokenizer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import weka.core.Debug.Random;
 
 import static org.junit.Assert.*;
 
